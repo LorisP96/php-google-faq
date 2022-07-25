@@ -66,7 +66,15 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" alt="">
             <h3>Privacy & Termini</h3>
         </div>
-        <nav></nav>
+        <nav>
+            <ul>
+                <li>Introduzione</li>
+                <li>Norme sulla privacy</li>
+                <li>Termini di servizio</li>
+                <li>Tecnologie</li>
+                <li>Domande frequenti</li>
+            </ul>
+        </nav>
     </header>
     <main>
         

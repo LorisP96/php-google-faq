@@ -10,6 +10,21 @@ header {
     border-bottom: 1px solid black;
 }
 
+nav > ul {
+    display: flex;
+}
+
+nav > ul > li {
+    list-style-type: none;
+    margin-inline: 10px;
+    padding: 0;
+}
+
+nav li:last-child {
+    color: #3367d6;
+    border-bottom: 2px solid #3367d6;
+}
+
 main {
     width: 60%;
     margin: 0 auto;
@@ -49,7 +64,8 @@ ul > li {
 }
 
 p > span {
-    color: blue;
+    color: #3367d6;
     cursor: pointer;
     text-decoration: underline;
 }
+
